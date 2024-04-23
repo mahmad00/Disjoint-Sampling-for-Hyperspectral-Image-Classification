@@ -1,0 +1,1 @@
+This demo is associated with: Importance of Disjoint Sampling in Conventional and Transformer Models for Hyperspectral Image Classification Submitted for possible publication at IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE J-STARS).
