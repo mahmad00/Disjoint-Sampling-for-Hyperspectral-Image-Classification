@@ -1,6 +1,6 @@
 # Importance of Disjoint Sampling
 
-## This demo is associated with: "Importance of Disjoint Sampling in Conventional and Transformer Models for Hyperspectral Image Classification" Submitted for possible publication in the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE J-STARS).
+# This demo is associated with: [Importance of Disjoint Sampling in Conventional and Transformer Models for Hyperspectral Image Classification]() Submitted for possible publication in the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE J-STARS).
 
 ## Models implemented in this work:
 ## 2D CNN
