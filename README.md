@@ -1,23 +1,16 @@
 # Importance of Disjoint Sampling
 
-# This demo is associated with: [Importance of Disjoint Sampling in Conventional and Transformer Models for Hyperspectral Image Classification]() Submitted for possible publication in the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE J-STARS).
+# This demo is associated with: [Importance of Disjoint Sampling in Conventional and Transformer Models for Hyperspectral Image Classification]() Submitted for possible publication. The Paper is also available on ArXiv and can be accessed at "https://arxiv.org/abs/2404.14944"
 
 ## Models implemented in this work:
-## 2D CNN
-
-## 3D CNN
-
-## Hybrid CNN
-
-## 2D Inception Net
-
-## 3D Inception Net
-
-## Hybrid Inception Net
-
-## Attention Graph CNN
-
-## Spatial-Spectral Transformer
+# 2D CNN
+# 3D CNN
+# Hybrid CNN
+# 2D Inception Net
+# 3D Inception Net
+# Hybrid Inception Net
+# Attention Graph CNN
+# Spatial-Spectral Transformer
 
 ## Requirements
 
