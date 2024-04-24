@@ -1,8 +1,8 @@
 # Importance of Disjoint Sampling
 
-# This demo is associated with: [Importance of Disjoint Sampling in Conventional and Transformer Models for Hyperspectral Image Classification]() Submitted for possible publication. The Paper is also available on ArXiv and can be accessed at "https://arxiv.org/abs/2404.14944"
+## This demo is associated with: [Importance of Disjoint Sampling in Conventional and Transformer Models for Hyperspectral Image Classification]() Submitted for possible publication. The Paper is also available on ArXiv and can be accessed at "https://arxiv.org/abs/2404.14944"
 
-## Models implemented in this work:
+# Models implemented in this work:
 ## 2D CNN
 ## 3D CNN
 ## Hybrid CNN
@@ -12,11 +12,11 @@
 ## Attention Graph CNN
 ## Spatial-Spectral Transformer
 
-## Requirements
+# Requirements
 
 This tool is compatible with Python 2.7 and Python 3.5+ and executed over Colab.
 
-## Hyperspectral datasets
+# Hyperspectral datasets
 
 Several public hyperspectral datasets are available on the [EHU]([http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)). Users can download those beforehand. 
 
