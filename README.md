@@ -1,6 +1,15 @@
 # Importance of Disjoint Sampling
 
-## This demo is associated with: [Importance of Disjoint Sampling in Conventional and Transformer Models for Hyperspectral Image Classification]() Submitted for possible publication. The Paper is also available on ArXiv and can be accessed at "https://arxiv.org/abs/2404.14944"
+## This demo is associated with [Importance of Disjoint Sampling in Conventional and Transformer Models for Hyperspectral Image Classification](https://arxiv.org/abs/2404.14944) Submitted for possible publication. The Paper is available on ArXiv and can be accessed at "https://arxiv.org/abs/2404.14944"
+
+@misc{ahmad2024importance,
+      title={Importance of Disjoint Sampling in Conventional and Transformer Models for Hyperspectral Image Classification}, 
+      author={Muhammad Ahmad and Manuel Mazzara and Salvatore Distifano},
+      year={2024},
+      eprint={2404.14944},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 
 # Models implemented in this work:
 ## 2D CNN
